@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="270736" started-at="2018-07-02T09:07:44Z" finished-at="2018-07-02T09:12:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="270736" started-at="2018-07-02T09:07:44Z" finished-at="2018-07-02T09:12:14Z">
+      <class name="kurtosysTestcases.testCases">
+        <test-method status="PASS" signature="set_up()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="set_up" is-config="true" duration-ms="31314" started-at="2018-07-02T09:07:44Z" finished-at="2018-07-02T09:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="loginLogout()[pri:1, instance:kurtosysTestcases.testCases@59f99ea]" name="loginLogout" duration-ms="13173" started-at="2018-07-02T09:08:15Z" finished-at="2018-07-02T09:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogout -->
+        <test-method status="PASS" signature="createReport()[pri:2, instance:kurtosysTestcases.testCases@59f99ea]" name="createReport" duration-ms="46742" started-at="2018-07-02T09:08:28Z" finished-at="2018-07-02T09:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+        <test-method status="PASS" signature="editReport()[pri:3, instance:kurtosysTestcases.testCases@59f99ea]" name="editReport" duration-ms="38962" started-at="2018-07-02T09:09:15Z" finished-at="2018-07-02T09:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editReport -->
+        <test-method status="PASS" signature="copyReport()[pri:4, instance:kurtosysTestcases.testCases@59f99ea]" name="copyReport" duration-ms="40071" started-at="2018-07-02T09:09:54Z" finished-at="2018-07-02T09:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyReport -->
+        <test-method status="PASS" signature="deleteReport()[pri:5, instance:kurtosysTestcases.testCases@59f99ea]" name="deleteReport" duration-ms="35127" started-at="2018-07-02T09:10:34Z" finished-at="2018-07-02T09:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteReport -->
+        <test-method status="PASS" signature="calculateNetWorth()[pri:6, instance:kurtosysTestcases.testCases@59f99ea]" name="calculateNetWorth" duration-ms="65301" started-at="2018-07-02T09:11:09Z" finished-at="2018-07-02T09:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateNetWorth -->
+        <test-method status="PASS" signature="closeURL()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="closeURL" is-config="true" duration-ms="0" started-at="2018-07-02T09:12:14Z" finished-at="2018-07-02T09:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeURL -->
+      </class> <!-- kurtosysTestcases.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
