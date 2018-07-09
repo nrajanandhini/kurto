@@ -176,6 +176,7 @@ public class accountHoldings {
 		{
 			System.out.println(e.getText());
 			e.getText();
+			Thread.sleep(1000);
 			e.click();
 		}
 		

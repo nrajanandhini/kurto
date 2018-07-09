@@ -11,6 +11,7 @@
           <include name="deleteReport"/>
           <include name="closeURL"/>
           <include name="copyReport"/>
+          <include name="loginLogout"/>
           <include name="createReport"/>
         </methods>
       </class> <!-- kurtosysTestcases.testCases -->

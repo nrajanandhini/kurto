@@ -232,7 +232,7 @@ public void calculateNetWorth() throws Exception {
 	public void closeURL()
 	
 	{
-		//driver.close();
+		driver.close();
 	}
 }
 //
