@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="157723" started-at="2018-07-09T11:33:23Z" finished-at="2018-07-09T11:36:01Z">
+  <suite name="Default suite" duration-ms="185089" started-at="2018-07-09T12:42:16Z" finished-at="2018-07-09T12:45:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="157723" started-at="2018-07-09T11:33:23Z" finished-at="2018-07-09T11:36:01Z">
+    <test name="Default test" duration-ms="185089" started-at="2018-07-09T12:42:16Z" finished-at="2018-07-09T12:45:21Z">
       <class name="kurtosysTestcases.testCases">
-        <test-method status="PASS" signature="set_up()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="set_up" is-config="true" duration-ms="11824" started-at="2018-07-09T11:33:23Z" finished-at="2018-07-09T11:33:35Z">
+        <test-method status="PASS" signature="set_up()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="set_up" is-config="true" duration-ms="23226" started-at="2018-07-09T12:42:16Z" finished-at="2018-07-09T12:42:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- set_up -->
-        <test-method status="PASS" signature="loginLogout()[pri:1, instance:kurtosysTestcases.testCases@59f99ea]" name="loginLogout" duration-ms="3955" started-at="2018-07-09T11:33:35Z" finished-at="2018-07-09T11:33:39Z">
+        <test-method status="PASS" signature="loginLogout()[pri:1, instance:kurtosysTestcases.testCases@59f99ea]" name="loginLogout" duration-ms="5279" started-at="2018-07-09T12:42:39Z" finished-at="2018-07-09T12:42:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginLogout -->
-        <test-method status="PASS" signature="createReport()[pri:2, instance:kurtosysTestcases.testCases@59f99ea]" name="createReport" duration-ms="32034" started-at="2018-07-09T11:33:39Z" finished-at="2018-07-09T11:34:11Z">
+        <test-method status="PASS" signature="createReport()[pri:2, instance:kurtosysTestcases.testCases@59f99ea]" name="createReport" duration-ms="34390" started-at="2018-07-09T12:42:44Z" finished-at="2018-07-09T12:43:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createReport -->
-        <test-method status="PASS" signature="editReport()[pri:3, instance:kurtosysTestcases.testCases@59f99ea]" name="editReport" duration-ms="23857" started-at="2018-07-09T11:34:11Z" finished-at="2018-07-09T11:34:35Z">
+        <test-method status="PASS" signature="editReport()[pri:3, instance:kurtosysTestcases.testCases@59f99ea]" name="editReport" duration-ms="25619" started-at="2018-07-09T12:43:19Z" finished-at="2018-07-09T12:43:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editReport -->
-        <test-method status="PASS" signature="copyReport()[pri:4, instance:kurtosysTestcases.testCases@59f99ea]" name="copyReport" duration-ms="14516" started-at="2018-07-09T11:34:35Z" finished-at="2018-07-09T11:34:50Z">
+        <test-method status="PASS" signature="copyReport()[pri:4, instance:kurtosysTestcases.testCases@59f99ea]" name="copyReport" duration-ms="15245" started-at="2018-07-09T12:43:44Z" finished-at="2018-07-09T12:44:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- copyReport -->
-        <test-method status="PASS" signature="deleteReport()[pri:5, instance:kurtosysTestcases.testCases@59f99ea]" name="deleteReport" duration-ms="21421" started-at="2018-07-09T11:34:50Z" finished-at="2018-07-09T11:35:11Z">
+        <test-method status="PASS" signature="deleteReport()[pri:5, instance:kurtosysTestcases.testCases@59f99ea]" name="deleteReport" duration-ms="23432" started-at="2018-07-09T12:44:00Z" finished-at="2018-07-09T12:44:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteReport -->
-        <test-method status="PASS" signature="calculateNetWorth()[pri:6, instance:kurtosysTestcases.testCases@59f99ea]" name="calculateNetWorth" duration-ms="49831" started-at="2018-07-09T11:35:11Z" finished-at="2018-07-09T11:36:01Z">
+        <test-method status="PASS" signature="calculateNetWorth()[pri:6, instance:kurtosysTestcases.testCases@59f99ea]" name="calculateNetWorth" duration-ms="57617" started-at="2018-07-09T12:44:23Z" finished-at="2018-07-09T12:45:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- calculateNetWorth -->
-        <test-method status="PASS" signature="closeURL()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="closeURL" is-config="true" duration-ms="248" started-at="2018-07-09T11:36:01Z" finished-at="2018-07-09T11:36:01Z">
+        <test-method status="PASS" signature="closeURL()[pri:0, instance:kurtosysTestcases.testCases@59f99ea]" name="closeURL" is-config="true" duration-ms="219" started-at="2018-07-09T12:45:21Z" finished-at="2018-07-09T12:45:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeURL -->
